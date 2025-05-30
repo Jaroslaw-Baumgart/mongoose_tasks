@@ -44,7 +44,7 @@ mongoose_tasks/
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Jaroslaw-Baumgart/mongoose_tasks
 cd mongoose_tasks
 ```
 
